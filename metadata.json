@@ -1,0 +1,6 @@
+{
+  "name": "QuizWiz: Kids Quest & Science Adventure",
+  "description": "An interactive, animated quiz game for children up to Class 8 featuring Science, History, Math, and Geography with AI tutor explanations and game modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
